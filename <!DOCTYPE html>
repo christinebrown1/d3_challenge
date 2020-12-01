@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <title> My Bio </title>
+</head>
+
+<body>
+    <h1>Christine</h1>
+    <img src = "https://media-exp1.licdn.com/dms/image/C4E03AQFRQSYcnDU1Nw/profile-displayphoto-shrink_200_200/0/1606785328646?e=1612396800&v=beta&t=UqA_J2ZPFZwuljXMpppSQxPjMjy2WzDDnmtUEr2xv0k"
+    <p>I am a student at the University of Minnesota Sept-March Data Cohort</p>
+    <p>I am also a Project Manager at The Bernard Group. </p>
+
+<ul>
+    <li><strong>Email: </strong><a href="#">christinebrown1@me.com</a></li>
+</ul>
